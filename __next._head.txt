@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[61030,["/_next/static/chunks/17p.g0loj73k4.js","/_next/static/chunks/09zz3c8e~_~m~.js"],"ViewportBoundary"]
+3:I[61030,["/_next/static/chunks/17p.g0loj73k4.js","/_next/static/chunks/09zz3c8e~_~m~.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[11739,["/_next/static/chunks/17p.g0loj73k4.js","/_next/static/chunks/09zz3c8e~_~m~.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"東京機工ベトナム | Công ty TNHH Tokyo Kiko Việt Nam"}],["$","meta","1",{"name":"description","content":"Chuyên tư vấn bản vẽ kỹ thuật xây dựng và xuất nhập khẩu hàng hoá tiêu chuẩn Nhật Bản tại Việt Nam."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"9gn5tUy_ZeTHM3N0YEM-c"}
